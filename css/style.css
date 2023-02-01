@@ -338,6 +338,27 @@ ol {
 	margin-right: 8px;
 	margin-bottom: 20px;
 }
+.detail_1{
+	padding: 100px;
+	color: #090c3a;
+	background-image: linear-gradient(to right, rgb(0, 204, 255) , rgb(152, 248, 128));
+	font-size: 40px;
+	text-align: center;
+
+}
+.compare{
+text-align: center;
+	background-color: #d9f8f6;
+	height: 500px;
+}
+.table_1{ 
+	padding: 20px;
+	font-size: 30px;
+	border: 4px solid;
+	width: 100%;
+	color: #090c3a;
+	text-align: center;
+}
 .about1{
 	color: #6697e0;
 	padding:120px;
